@@ -30,4 +30,4 @@ example of a polyalphabetic substitution cipher, one in which a plurality of cip
 alphabets is employed within the same message.
 
 ## Playfair Cipher
-Playfair’s cipher was actually invented by his good friend Charles Wheatstone with whom Playfair spent many hours working on recreational cryptology. Playfair’s method requires a table of only 25 cells.
+The Playfair Cipher is a polygraphic substitution cipher and it was actually invented by his good friend Charles Wheatstone with whom Playfair spent many hours working on recreational cryptology. Playfair’s method requires a table of only 25 cells.
